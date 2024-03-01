@@ -1,1 +1,1 @@
-# Disc-POO-2024.1-T01
+# Este repositorio é do trabalho 01 da Etapa N1 de 2024.1 da disciplina de POO.
